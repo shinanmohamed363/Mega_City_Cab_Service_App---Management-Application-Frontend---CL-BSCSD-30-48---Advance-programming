@@ -1,0 +1,56 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite build output
+dist/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.lock
+*.iml
+
+# Coverage directory used by testing tools
+coverage/
+
+# Linting and formatting cache
+.eslintcache
+stylelintcache
+
+# TailwindCSS generated files
+.tailwindcss/
+
+# Temporary files and backups
+*.tmp
+*.bak
+*.old
+
+# MacOS-specific
+.AppleDouble
+.LSOverride
+
+# Temporary development or debug files
+debug.log
