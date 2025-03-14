@@ -1,8 +1,33 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Megacity cab Service
 
-Currently, two official plugins are available:
+## Project Showcase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here are some screenshots of the application:
+
+### Dashboard
+![Dashboard](/Dashboard.png)
+
+### Booking
+![Booking](/booking.png)
+
+### Customer Registration
+![Customer Registration](/Customer.png)
+
+### Login
+![Login](/login.png)
+
+---
+
+### Features
+
+- **Dashboard**: Overview of the cab service management system.
+- **Booking**: Manage and track cab bookings.
+- **Vehicle**: View and manage available vehicles.
+- **Rent**: Handle rental agreements and payments.
+- **Settings**: Customize application settings.
+- **Range**: Define service areas and ranges.
+- **Package**: Create and manage service packages.
+- **Customer Register**: Allow customers to register.
+- **Payment**: Process payments securely.
